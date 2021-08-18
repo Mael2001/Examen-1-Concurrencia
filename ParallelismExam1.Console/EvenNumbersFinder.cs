@@ -1,7 +1,9 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace ParallelismExam1.Console
@@ -22,14 +24,15 @@ namespace ParallelismExam1.Console
 
         private IEnumerable<int> FindEvenNumbers(int[] listOfValues, int start, int end)
         {
-            var evenNumbers = new List<int>();
-            for (var i = start; i < end; i++)
+
+            var evenNumbers = new ConcurrentBag<int>();
+            Parallel.ForEach(listOfValues, (tmp) =>
             {
-                if (listOfValues[i] % 2 == 0)
+                if (tmp %2 ==0)
                 {
-                    evenNumbers.Add(listOfValues[i]);
+                    evenNumbers.Add(tmp);
                 }
-            }
+            });
             return evenNumbers;
         }
     }

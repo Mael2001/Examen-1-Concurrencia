@@ -12,3 +12,4 @@ C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\ParallelismExam1.Console\obj
 C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\ParallelismExam1.Console\obj\Debug\netcoreapp3.1\ParallelismExam1.Console.dll
 C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\ParallelismExam1.Console\obj\Debug\netcoreapp3.1\ParallelismExam1.Console.pdb
 C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\ParallelismExam1.Console\obj\Debug\netcoreapp3.1\ParallelismExam1.Console.genruntimeconfig.cache
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\ParallelismExam1.Console\bin\Debug\netcoreapp3.1\data.csv
