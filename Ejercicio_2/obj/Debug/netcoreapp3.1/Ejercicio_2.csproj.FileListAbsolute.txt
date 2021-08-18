@@ -1,0 +1,14 @@
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\bin\Debug\netcoreapp3.1\Ejercicio_2.exe
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\bin\Debug\netcoreapp3.1\Ejercicio_2.deps.json
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\bin\Debug\netcoreapp3.1\Ejercicio_2.runtimeconfig.json
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\bin\Debug\netcoreapp3.1\Ejercicio_2.runtimeconfig.dev.json
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\bin\Debug\netcoreapp3.1\Ejercicio_2.dll
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\bin\Debug\netcoreapp3.1\Ejercicio_2.pdb
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_2.csproj.AssemblyReference.cache
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_2.AssemblyInfoInputs.cache
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_2.AssemblyInfo.cs
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_2.dll
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_2.pdb
+C:\Users\Skytech\Source\Repos\Examen-1-Concurrencia\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_2.genruntimeconfig.cache

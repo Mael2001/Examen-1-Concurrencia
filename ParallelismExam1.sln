@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelismExam1.Console", "ParallelismExam1.Console\ParallelismExam1.Console.csproj", "{2B36C204-3D09-4288-A61E-74BAA3697288}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelismExam1.Console", "ParallelismExam1.Console\ParallelismExam1.Console.csproj", "{2B36C204-3D09-4288-A61E-74BAA3697288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_2", "Ejercicio_2\Ejercicio_2.csproj", "{7A8B84FF-E1F5-49D6-A2C1-B5E0D74DFF5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2B36C204-3D09-4288-A61E-74BAA3697288}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B36C204-3D09-4288-A61E-74BAA3697288}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B36C204-3D09-4288-A61E-74BAA3697288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A8B84FF-E1F5-49D6-A2C1-B5E0D74DFF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8B84FF-E1F5-49D6-A2C1-B5E0D74DFF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8B84FF-E1F5-49D6-A2C1-B5E0D74DFF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8B84FF-E1F5-49D6-A2C1-B5E0D74DFF5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
