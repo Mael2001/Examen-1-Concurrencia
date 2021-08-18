@@ -1,0 +1,9 @@
+Ejercicio #2
+
+A)El problema se origina ya que como no se estan utilizando semaforos se esta generado una condicion de carrera y varios threads estan accesando la variable al mismo tiempo dando resultados erroneos.
+
+B)Mi solucion solamente seria solamente agregar 1 semaforo en el programa y implementar dicho semaforo en la linea 30 y en la linea 32 ya quede de la siguiente forma:
+
+        sem_wait(&sem[0]);
+        total += 1;
+        sem_post(&sem[0]);
