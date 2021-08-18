@@ -7,7 +7,6 @@ struct thread
     int id;
     int* result;
     int count;
-    int range;
 };
 struct Range
 {
@@ -84,9 +83,10 @@ int main(int argc, char *argv[])
     printf("-----------------------\n");
     for (int i = 0; i < numThreads; i++)
     {
+        printf("Core[%d]:\n",i);
         for (int j = 0; j < core_data[i].count; j++)
         {
-            printf("Core[%d] = ResultArr[%d] = %d\n",i,j,core_data[i].result[j]);
+            printf("\tResultArr[%d] = %d\n",j,core_data[i].result[j]);
         }
     }
     printf("-----------------------\n");
@@ -120,7 +120,6 @@ void *runner(void *param)
     int firstIndex = index.firstIndex;
     int lastIndex = index.lastIndex;
     int range = lastIndex-firstIndex;
-    core->range = range;
     core->result = (int *)malloc(range * sizeof(int));
     core->count=0;
     for (size_t i = 0; i < range; i++)
